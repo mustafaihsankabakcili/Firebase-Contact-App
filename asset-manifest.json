@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Firebase-Contact-App/static/css/main.d549e293.css",
+    "main.js": "/Firebase-Contact-App/static/js/main.eb6818f1.js",
+    "static/js/787.6c3fad03.chunk.js": "/Firebase-Contact-App/static/js/787.6c3fad03.chunk.js",
+    "index.html": "/Firebase-Contact-App/index.html",
+    "main.d549e293.css.map": "/Firebase-Contact-App/static/css/main.d549e293.css.map",
+    "main.eb6818f1.js.map": "/Firebase-Contact-App/static/js/main.eb6818f1.js.map",
+    "787.6c3fad03.chunk.js.map": "/Firebase-Contact-App/static/js/787.6c3fad03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d549e293.css",
+    "static/js/main.eb6818f1.js"
+  ]
+}
