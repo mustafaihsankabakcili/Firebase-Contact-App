@@ -27,12 +27,12 @@ export const useFetch = () => {
 
     onValue(userRef, (snapshot) => {
       const data = snapshot.val();
-      const baglantiArray = [];
+      const contactsArray = [];
 
       for (let id in data) {
-        baglantiArray.push({ id, ...data[id] });
+        contactsArray.push({ id, ...data[id] });
       }
-      setContactList(baglantiArray);
+      setContactList(contactsArray);
       setIsLoading(false);
     });
   }, []);
